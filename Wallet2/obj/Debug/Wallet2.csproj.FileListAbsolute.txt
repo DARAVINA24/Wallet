@@ -1,0 +1,104 @@
+c:\users\daniel.daravina\documents\visual studio 2013\Projects\Wallet2\Wallet2\bin\Wallet2.dll.config
+c:\users\daniel.daravina\documents\visual studio 2013\Projects\Wallet2\Wallet2\bin\Wallet2.dll
+c:\users\daniel.daravina\documents\visual studio 2013\Projects\Wallet2\Wallet2\bin\Wallet2.pdb
+c:\users\daniel.daravina\documents\visual studio 2013\Projects\Wallet2\Wallet2\bin\Antlr3.Runtime.dll
+c:\users\daniel.daravina\documents\visual studio 2013\Projects\Wallet2\Wallet2\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\daniel.daravina\documents\visual studio 2013\Projects\Wallet2\Wallet2\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\daniel.daravina\documents\visual studio 2013\Projects\Wallet2\Wallet2\bin\EntityFramework.dll
+c:\users\daniel.daravina\documents\visual studio 2013\Projects\Wallet2\Wallet2\bin\EntityFramework.SqlServer.dll
+c:\users\daniel.daravina\documents\visual studio 2013\Projects\Wallet2\Wallet2\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\daniel.daravina\documents\visual studio 2013\Projects\Wallet2\Wallet2\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\daniel.daravina\documents\visual studio 2013\Projects\Wallet2\Wallet2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\daniel.daravina\documents\visual studio 2013\Projects\Wallet2\Wallet2\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\daniel.daravina\documents\visual studio 2013\Projects\Wallet2\Wallet2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\daniel.daravina\documents\visual studio 2013\Projects\Wallet2\Wallet2\bin\Microsoft.Owin.dll
+c:\users\daniel.daravina\documents\visual studio 2013\Projects\Wallet2\Wallet2\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\daniel.daravina\documents\visual studio 2013\Projects\Wallet2\Wallet2\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\daniel.daravina\documents\visual studio 2013\Projects\Wallet2\Wallet2\bin\Microsoft.Owin.Security.dll
+c:\users\daniel.daravina\documents\visual studio 2013\Projects\Wallet2\Wallet2\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\daniel.daravina\documents\visual studio 2013\Projects\Wallet2\Wallet2\bin\Microsoft.Owin.Security.Google.dll
+c:\users\daniel.daravina\documents\visual studio 2013\Projects\Wallet2\Wallet2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\daniel.daravina\documents\visual studio 2013\Projects\Wallet2\Wallet2\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\daniel.daravina\documents\visual studio 2013\Projects\Wallet2\Wallet2\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\daniel.daravina\documents\visual studio 2013\Projects\Wallet2\Wallet2\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\daniel.daravina\documents\visual studio 2013\Projects\Wallet2\Wallet2\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\daniel.daravina\documents\visual studio 2013\Projects\Wallet2\Wallet2\bin\Microsoft.Web.Infrastructure.dll
+c:\users\daniel.daravina\documents\visual studio 2013\Projects\Wallet2\Wallet2\bin\Newtonsoft.Json.dll
+c:\users\daniel.daravina\documents\visual studio 2013\Projects\Wallet2\Wallet2\bin\Owin.dll
+c:\users\daniel.daravina\documents\visual studio 2013\Projects\Wallet2\Wallet2\bin\System.Web.Optimization.dll
+c:\users\daniel.daravina\documents\visual studio 2013\Projects\Wallet2\Wallet2\bin\System.Web.Providers.dll
+c:\users\daniel.daravina\documents\visual studio 2013\Projects\Wallet2\Wallet2\bin\WebGrease.dll
+c:\users\daniel.daravina\documents\visual studio 2013\Projects\Wallet2\Wallet2\bin\System.Web.Optimization.xml
+c:\users\daniel.daravina\documents\visual studio 2013\Projects\Wallet2\Wallet2\bin\Antlr3.Runtime.pdb
+c:\users\daniel.daravina\documents\visual studio 2013\Projects\Wallet2\Wallet2\bin\Newtonsoft.Json.xml
+c:\users\daniel.daravina\documents\visual studio 2013\Projects\Wallet2\Wallet2\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\daniel.daravina\documents\visual studio 2013\Projects\Wallet2\Wallet2\bin\EntityFramework.xml
+c:\users\daniel.daravina\documents\visual studio 2013\Projects\Wallet2\Wallet2\bin\EntityFramework.SqlServer.xml
+c:\users\daniel.daravina\documents\visual studio 2013\Projects\Wallet2\Wallet2\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\daniel.daravina\documents\visual studio 2013\Projects\Wallet2\Wallet2\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\daniel.daravina\documents\visual studio 2013\Projects\Wallet2\Wallet2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\daniel.daravina\documents\visual studio 2013\Projects\Wallet2\Wallet2\bin\Microsoft.Owin.xml
+c:\users\daniel.daravina\documents\visual studio 2013\Projects\Wallet2\Wallet2\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\daniel.daravina\documents\visual studio 2013\Projects\Wallet2\Wallet2\bin\Microsoft.Owin.Security.xml
+c:\users\daniel.daravina\documents\visual studio 2013\Projects\Wallet2\Wallet2\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\daniel.daravina\documents\visual studio 2013\Projects\Wallet2\Wallet2\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\daniel.daravina\documents\visual studio 2013\Projects\Wallet2\Wallet2\bin\Microsoft.Owin.Security.Google.xml
+c:\users\daniel.daravina\documents\visual studio 2013\Projects\Wallet2\Wallet2\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\daniel.daravina\documents\visual studio 2013\Projects\Wallet2\Wallet2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\daniel.daravina\documents\visual studio 2013\Projects\Wallet2\Wallet2\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\daniel.daravina\documents\visual studio 2013\Projects\Wallet2\Wallet2\obj\Debug\Wallet2.csprojResolveAssemblyReference.cache
+c:\users\daniel.daravina\documents\visual studio 2013\Projects\Wallet2\Wallet2\obj\Debug\Wallet2.dll
+c:\users\daniel.daravina\documents\visual studio 2013\Projects\Wallet2\Wallet2\obj\Debug\Wallet2.pdb
+C:\Users\HenryBenitez18\Downloads\Wallet2\Wallet2\bin\Wallet2.dll.config
+C:\Users\HenryBenitez18\Downloads\Wallet2\Wallet2\bin\Wallet2.dll
+C:\Users\HenryBenitez18\Downloads\Wallet2\Wallet2\bin\Wallet2.pdb
+C:\Users\HenryBenitez18\Downloads\Wallet2\Wallet2\bin\Antlr3.Runtime.dll
+C:\Users\HenryBenitez18\Downloads\Wallet2\Wallet2\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\HenryBenitez18\Downloads\Wallet2\Wallet2\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\HenryBenitez18\Downloads\Wallet2\Wallet2\bin\EntityFramework.dll
+C:\Users\HenryBenitez18\Downloads\Wallet2\Wallet2\bin\EntityFramework.SqlServer.dll
+C:\Users\HenryBenitez18\Downloads\Wallet2\Wallet2\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\HenryBenitez18\Downloads\Wallet2\Wallet2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\HenryBenitez18\Downloads\Wallet2\Wallet2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\HenryBenitez18\Downloads\Wallet2\Wallet2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\HenryBenitez18\Downloads\Wallet2\Wallet2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\HenryBenitez18\Downloads\Wallet2\Wallet2\bin\Microsoft.Owin.dll
+C:\Users\HenryBenitez18\Downloads\Wallet2\Wallet2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\HenryBenitez18\Downloads\Wallet2\Wallet2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\HenryBenitez18\Downloads\Wallet2\Wallet2\bin\Microsoft.Owin.Security.dll
+C:\Users\HenryBenitez18\Downloads\Wallet2\Wallet2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\HenryBenitez18\Downloads\Wallet2\Wallet2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\HenryBenitez18\Downloads\Wallet2\Wallet2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\HenryBenitez18\Downloads\Wallet2\Wallet2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\HenryBenitez18\Downloads\Wallet2\Wallet2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\HenryBenitez18\Downloads\Wallet2\Wallet2\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\HenryBenitez18\Downloads\Wallet2\Wallet2\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\HenryBenitez18\Downloads\Wallet2\Wallet2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HenryBenitez18\Downloads\Wallet2\Wallet2\bin\Newtonsoft.Json.dll
+C:\Users\HenryBenitez18\Downloads\Wallet2\Wallet2\bin\Owin.dll
+C:\Users\HenryBenitez18\Downloads\Wallet2\Wallet2\bin\System.Web.Optimization.dll
+C:\Users\HenryBenitez18\Downloads\Wallet2\Wallet2\bin\System.Web.Providers.dll
+C:\Users\HenryBenitez18\Downloads\Wallet2\Wallet2\bin\WebGrease.dll
+C:\Users\HenryBenitez18\Downloads\Wallet2\Wallet2\bin\System.Web.Optimization.xml
+C:\Users\HenryBenitez18\Downloads\Wallet2\Wallet2\bin\Antlr3.Runtime.pdb
+C:\Users\HenryBenitez18\Downloads\Wallet2\Wallet2\bin\Newtonsoft.Json.xml
+C:\Users\HenryBenitez18\Downloads\Wallet2\Wallet2\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\HenryBenitez18\Downloads\Wallet2\Wallet2\bin\EntityFramework.xml
+C:\Users\HenryBenitez18\Downloads\Wallet2\Wallet2\bin\EntityFramework.SqlServer.xml
+C:\Users\HenryBenitez18\Downloads\Wallet2\Wallet2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\HenryBenitez18\Downloads\Wallet2\Wallet2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\HenryBenitez18\Downloads\Wallet2\Wallet2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\HenryBenitez18\Downloads\Wallet2\Wallet2\bin\Microsoft.Owin.xml
+C:\Users\HenryBenitez18\Downloads\Wallet2\Wallet2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\HenryBenitez18\Downloads\Wallet2\Wallet2\bin\Microsoft.Owin.Security.xml
+C:\Users\HenryBenitez18\Downloads\Wallet2\Wallet2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\HenryBenitez18\Downloads\Wallet2\Wallet2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\HenryBenitez18\Downloads\Wallet2\Wallet2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\HenryBenitez18\Downloads\Wallet2\Wallet2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\HenryBenitez18\Downloads\Wallet2\Wallet2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\HenryBenitez18\Downloads\Wallet2\Wallet2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\HenryBenitez18\Downloads\Wallet2\Wallet2\obj\Debug\Wallet2.csprojAssemblyReference.cache
+C:\Users\HenryBenitez18\Downloads\Wallet2\Wallet2\obj\Debug\Wallet2.csproj.CoreCompileInputs.cache
+C:\Users\HenryBenitez18\Downloads\Wallet2\Wallet2\obj\Debug\Wallet2.csproj.CopyComplete
+C:\Users\HenryBenitez18\Downloads\Wallet2\Wallet2\obj\Debug\Wallet2.dll
+C:\Users\HenryBenitez18\Downloads\Wallet2\Wallet2\obj\Debug\Wallet2.pdb
