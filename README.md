@@ -107,6 +107,7 @@ Valida Wallet.
 
 
 Las URL para el consumo de los servicios son las siguientes.
+
 http://localhost:34003/api/consulta
 
 http://localhost:34003/api/transaccion
