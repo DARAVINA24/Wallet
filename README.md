@@ -108,9 +108,13 @@ Valida Wallet.
 
 Las URL para el consumo de los servicios son las siguientes.
 http://localhost:34003/api/consulta
+
 http://localhost:34003/api/transaccion
+
 http://localhost:34003/api/persona
+
 La URL donde estará montada nuestra Wallet es la siguiente.
+
 https://wallet220200504202955.azurewebsites.net/
 
 
